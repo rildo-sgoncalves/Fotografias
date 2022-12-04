@@ -1,1 +1,1 @@
-console.log("Hello wolrd!\n");
+console.log("Hello Photos!\n");
